@@ -9,7 +9,7 @@
 * **Scientific Computing**
 * **Scrum Master**
 * **Site Reliability Engineer**
-* **Software Development
+* **Software Development**
 * **Software Engineering**
 * **Super Computing**
 * **Technical Writer**
