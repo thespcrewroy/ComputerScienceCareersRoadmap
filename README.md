@@ -9,9 +9,6 @@
         * **Evolutionary Computation**
         * **Oncology**
      * **Genomic Data Analysis**
-* **Healthcare**
-    * **Health Informatics**
-    * **Telemedicine**
 * **Business**
     * **Business Process Management**
     * **Product Management**
@@ -39,6 +36,11 @@
         * **Supply Chain Systems Analyst**
 * **Cloud Computing**
 * **Cloud Engineering**
+* **Cybersecurity**
+    * **Cloud Security**
+    * **Operational Security**
+    * **Security Operations Center (SOC)**
+    * **Governence, Risk, and Compliance (GRC)**
 * **DevOps**
 * **Data Science**
     * **Artificial Intelligence Engineering**
@@ -49,9 +51,43 @@
     * **Data Scientist**
     * **Machine Learning Engineer**
     * **Artificial Intelligence Researcher**
+* **Engineering**
+    * **Chemical**
+    * **Electrical**
+        * **Control Systems**
+        * **Energy**
+        * **Integrated Circuits**
+        * **Internet of Things**
+        * **Robotics and Autonomy**
+        * **Telecommunications**
+    * **Environmental**
+    * **Industrial**
+        * **CNC Operator**
+        * **Computer Hardware Engineer**
+        * **Embedded Systems Engineer**
+        * **Industrial Controls Engineer**
+        * **SCADA Systems Engineer**
+    * **Mechanical**
+        * **Additive Manufacturing (3D Printing)**
+        * **Computational Mechanics**
+        * **Computer Aided Drafting (CAD)**
+        * **Computer-Aided Engineering (CAE)**
+        * **Mechatronics**
 * **Game Development**
+* **Geography**
+    * **GIS Analyst**
+    * **Geospatial Application Developer**
+    * **Remote Sensing**
+* **Healthcare**
+    * **Health Informatics**
+    * **Telemedicine**
 * **Kinesiology & Exercise Sciences**
 * **Mobile App Developer**
+* **Physics**
+    * **Computational Physics & Simulation**
+    * **Flight Software Engineer**
+    * **Quantum Computing**
+    * **Software Defined Radio**
 * **Quality Assurance Testing**
 * **Scientific Computing**
 * **Scrum Master**
