@@ -1,4 +1,17 @@
 # ComputerScienceCareersRoadmap
+* **Biology**
+    * **Bioinformatics**
+    * **Biomedical Image Analysis**
+    * **Biostatician**
+    * **Biotechnology**
+    * **Computational Biology**
+        * **CRISPR/Cas9 Genomics Editing Optimization**
+        * **Evolutionary Computation**
+        * **Oncology**
+     * **Genomic Data Analysis**
+* **Healthcare**
+    * **Health Informatics**
+    * **Telemedicine**
 * **Business**
     * **Business Process Management**
     * **Product Management**
@@ -22,9 +35,7 @@
         * **UI Designer**
         * **UX Writer**
     * **Supply Chain Management**
-        * **Blockchain Specialist in Supply Chain**
         * **Enterprise Resource Planning (ERP)**
-        * **Supply Chain AI Specialist**
         * **Supply Chain Systems Analyst**
 * **Cloud Computing**
 * **Cloud Engineering**
@@ -34,10 +45,12 @@
     * **Artificial Intelligence Researcher**
     * **Data Analytics**
     * **Database Administrator**
+    * **Data Engineer**
     * **Data Scientist**
     * **Machine Learning Engineer**
     * **Artificial Intelligence Researcher**
 * **Game Development**
+* **Kinesiology & Exercise Sciences**
 * **Mobile App Developer**
 * **Quality Assurance Testing**
 * **Scientific Computing**
@@ -45,8 +58,10 @@
 * **Site Reliability Engineer**
 * **Software Development**
 * **Software Engineering**
+* **Statistics**
 * **Super Computing**
 * **Technical Writer**
+* **Transportation**
 * **Video Game Development**
 * **VR Developer**
 * **Web3 Blockchain**
