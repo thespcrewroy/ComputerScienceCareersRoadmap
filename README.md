@@ -36,11 +36,6 @@
         * **Supply Chain Systems Analyst**
 * **Cloud Computing**
 * **Cloud Engineering**
-* **Cybersecurity**
-    * **Cloud Security**
-    * **Operational Security**
-    * **Security Operations Center (SOC)**
-    * **Governence, Risk, and Compliance (GRC)**
 * **DevOps**
 * **Data Science**
     * **Artificial Intelligence Engineering**
@@ -81,6 +76,15 @@
 * **Healthcare**
     * **Health Informatics**
     * **Telemedicine**
+* **Information Technology**
+    * **Cybersecurity Engineer**
+    * **Cloud Security**
+    * **Governence, Risk, and Compliance (GRC)**
+    * **Information Security (InfoSec)**
+    * **Operational Security**
+    * **Security Operations Center (SOC)**
+    * **Systems Administrator**
+    * **Network Security Administrator**
 * **Kinesiology & Exercise Sciences**
 * **Mobile App Developer**
 * **Physics**
