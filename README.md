@@ -1,4 +1,4 @@
-# ComputerScienceCareersRoadmap
+# Computer Science Careers Roadmap
 * **Biology**
     * **Bioinformatics**
     * **Biomedical Image Analysis**
@@ -43,6 +43,7 @@
     * **Data Analytics**
     * **Database Administrator**
     * **Data Engineer**
+    * **Data Miner**
     * **Data Scientist**
     * **Machine Learning Engineer**
     * **Artificial Intelligence Researcher**
@@ -68,6 +69,7 @@
         * **Computer Aided Drafting (CAD)**
         * **Computer-Aided Engineering (CAE)**
         * **Mechatronics**
+* **Forestry**
 * **Game Development**
 * **Geography**
     * **GIS Analyst**
@@ -81,17 +83,32 @@
     * **Cloud Security**
     * **Governence, Risk, and Compliance (GRC)**
     * **Information Security (InfoSec)**
+    * **Network Security Administrator**
     * **Operational Security**
     * **Security Operations Center (SOC)**
     * **Systems Administrator**
-    * **Network Security Administrator**
 * **Kinesiology & Exercise Sciences**
+* **Linguistics**
+    * **Natural Language Processing (NLP) Engineer**
+    * **Speech Recognition Engineer**
+    * **Text Mining Analyst**
+* **Marine Sciences**
+    * **Computational Oceanographer**
+    * **Maritime Telecommunications Engineer**
+    * **Naval Engineer**
+    * **Ocean Engineer**
+    * **Oceanography Simulations**
 * **Mobile App Developer**
 * **Physics**
     * **Computational Physics & Simulation**
     * **Flight Software Engineer**
     * **Quantum Computing**
     * **Software Defined Radio**
+* **Psychology**
+    * **Digital Therapist**
+    * **Computational Neurology**
+    * **Cognitive Science Researcher**
+    * **Human Computer Interaction**
 * **Quality Assurance Testing**
 * **Scientific Computing**
 * **Scrum Master**
