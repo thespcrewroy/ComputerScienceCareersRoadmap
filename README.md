@@ -35,7 +35,8 @@
         * **Enterprise Resource Planning (ERP)**
         * **Supply Chain Systems Analyst**
 * **Cloud Computing**
-* **Cloud Engineering**
+    * **Cloud Architect**
+    * **Cloud Engineering**
 * **DevOps**
 * **Data Science**
     * **Artificial Intelligence Engineering**
@@ -79,12 +80,17 @@
     * **Health Informatics**
     * **Telemedicine**
 * **Information Technology**
-    * **Cybersecurity Engineer**
+    * **Cybersecurity Engineer** 
         * **Cloud Security Engineer**
+        * **Digital Forensics Investigator**
         * **Governence, Risk, and Compliance (GRC)**
+            * **Consultant**
+            * **SOX Auditor**
         * **Incidence Response (IR) Team**
         * **Information Security (InfoSec)**
-        * **Red Team (Ethical Hackers)**
+        * **Red Team**
+            * **Ethical Hacker**
+            * **Penetration Tester**
         * **Security Operations Center (SOC)**
     * **Network Security Administrator**
     * **Systems Administrator**
