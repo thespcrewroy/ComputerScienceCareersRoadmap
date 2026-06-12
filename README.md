@@ -81,7 +81,7 @@
     * **Telemedicine**
 * **Information Technology**
     * **Cybersecurity Engineer** 
-        * **Cloud Security Engineer**
+        * **Cloud Security Administrator**
         * **Digital Forensics Investigator**
         * **Governence, Risk, and Compliance (GRC)**
             * **Consultant**
