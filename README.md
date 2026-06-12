@@ -80,12 +80,13 @@
     * **Telemedicine**
 * **Information Technology**
     * **Cybersecurity Engineer**
-    * **Cloud Security**
-    * **Governence, Risk, and Compliance (GRC)**
-    * **Information Security (InfoSec)**
+        * **Cloud Security Engineer**
+        * **Governence, Risk, and Compliance (GRC)**
+        * **Incidence Response (IR) Team**
+        * **Information Security (InfoSec)**
+        * **Red Team (Ethical Hackers)**
+        * **Security Operations Center (SOC)**
     * **Network Security Administrator**
-    * **Operational Security**
-    * **Security Operations Center (SOC)**
     * **Systems Administrator**
 * **Kinesiology & Exercise Sciences**
 * **Linguistics**
